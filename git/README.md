@@ -7,6 +7,8 @@ git push -f
 
 # Delete branch
 
+```
 git branch -d v60
 git push --delete origin v60
+```
 
