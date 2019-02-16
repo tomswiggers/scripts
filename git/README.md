@@ -11,4 +11,8 @@ git push -f
 git branch -d v60
 git push --delete origin v60
 ```
+# Check difference between 2 branches
 
+```
+git l master..develop --no-merges
+```
