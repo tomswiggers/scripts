@@ -16,3 +16,8 @@ git push --delete origin v60
 ```
 git l master..develop --no-merges
 ```
+# Tagging
+
+```
+git tag -a v80-release -m "v80 release 2019-02-17: bugfix xxx"
+```
