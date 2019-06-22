@@ -1,6 +1,6 @@
 <?php
 
-$startDate = '2018-11-13';
+$startDate = $argv[1];
 
 $start = new DateTime($startDate);
 $end = new DateTime();
